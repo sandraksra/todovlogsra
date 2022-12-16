@@ -1,6 +1,6 @@
 # todovlogsra
 
-frendend=Django ,version=4.1
+frontend=Django ,version=4.1
 
 backend=SQLlite
 
